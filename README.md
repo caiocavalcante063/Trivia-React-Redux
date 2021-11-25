@@ -26,7 +26,7 @@ Acesse [este](https://caiocavalcante063.github.io/Trivia-React-Redux/) link, ou:
 cd src/
 npm install
 ``` 
-### Executando aplicação
+### Executando a aplicação
 
   ```
     cd src/ && npm start
