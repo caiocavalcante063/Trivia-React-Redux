@@ -19,7 +19,7 @@ Este projeto trata-se de um jogo de perguntas e respostas baseado no jogo Trivia
 
 Acesse [este](https://caiocavalcante063.github.io/Trivia-React-Redux/) link, ou:
 
-> Clone este repositório, e siga os seguintes passos:
+> Clone o repositório, e siga os seguintes passos:
 
 ### Instalando dependências:
 ```bash
