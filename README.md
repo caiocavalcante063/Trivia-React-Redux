@@ -12,7 +12,7 @@ Este projeto trata-se de um jogo de perguntas e respostas baseado no jogo Trivia
 
 ## Tecnologias utilizadas
 
-> Desenvolvido usando: React, Redux, CSS3;
+> React, Redux, CSS3;
 > Consome: [API do Trivia](https://opentdb.com/api_config.php);
 
 ## Executando o Projeto
