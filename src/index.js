@@ -8,7 +8,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/Trivia-React-Redux">
     <Provider store={ store }>
       <App />
     </Provider>
